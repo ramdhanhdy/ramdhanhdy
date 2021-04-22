@@ -1,6 +1,6 @@
 👋 Hi, I’m @ramdhanhdy
- 👀 I’m interested in Data Science 
- 🌱 I’m currently learning Deep Learning
+- 👀 I’m interested in Data Science 
+- 🌱 I’m currently learning Deep Learning
 
 📫 How to reach me : ramdhan_hidayat@outlook.com
 
