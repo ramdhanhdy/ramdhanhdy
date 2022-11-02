@@ -1,6 +1,6 @@
-👋 Hi, I’m @ramdhanhdy
-- 👀 I’m interested in Data Science 
-- 🌱 I’m currently learning Deep Learning
+👋 Hi awesome visitor, I’m @ramdhanhdy
+- 👀 I’m a Data Analyst/Data Scientist
+- 🌱 I love learning about people behavior through data
 
 📫 How to reach me : ramdhan_hidayat@outlook.com
 
