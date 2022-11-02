@@ -4,7 +4,7 @@
 
 📫 How to reach me : 
  - Email: ramdhan_hidayat@outlook.com
- - Linkedin: https://www.linkedin.com/in/ramdhanhdy/
+ - Linkedin: https://www.linkedin.com/in/ramdhanhdy
 
 <!---
 ramdhanhdy/ramdhanhdy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
