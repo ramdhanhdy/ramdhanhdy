@@ -1,6 +1,6 @@
-👋 Hi awesome visitor, I’m @ramdhanhdy
+👋 Hi I’m @ramdhanhdy
 - 👀 I’m a Data Analyst/Data Scientist
-- 🌱 I love learning about people behavior through data
+- 🌱 My field of interrest: Data, Economics, Finance
 
 📫 How to reach me : 
  - Email: ramdhan_hidayat@outlook.com
