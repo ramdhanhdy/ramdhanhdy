@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Ramdhan</h1>
-<h3 align="center">I love to analyze data</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramdhanhdy&label=Profile%20views&color=0e75b6&style=flat" alt="ramdhanhdy" /> </p>
 
