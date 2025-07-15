@@ -2,8 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramdhanhdy&label=Profile%20views&color=0e75b6&style=flat" alt="ramdhanhdy" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/ramdhanhdy/DS_Project](https://github.com/ramdhanhdy/DS_Project)
-
 - 📫 How to reach me **ramdhan_hidayat@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
